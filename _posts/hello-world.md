@@ -1,13 +1,13 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus.'
-coverImage: 'https://res.cloudinary.com/asross311/image/upload/v1591158386/ASR_Assets/lkmoz2m5ryo7wxtgmjge.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: 'Why TypeScript puts the Super in Superset'
+excerpt: ''
+coverImage: 'https://res.cloudinary.com/asross311/image/upload/v1594137933/ASR_Assets/runtime_kcjcym.jpg'
+date: '2020-07-06T08:35:07.322Z'
 author:
   name: Yong Lee
   picture: 'https://res.cloudinary.com/asross311/image/upload/v1594134267/ASR_Assets/Ghengis_Yong_epwjh8.png'
 ogImage:
-  url: 'https://res.cloudinary.com/asross311/image/upload/v1591158386/ASR_Assets/lkmoz2m5ryo7wxtgmjge.jpg'
+  url: 'https://res.cloudinary.com/asross311/image/upload/v1594137933/ASR_Assets/runtime_kcjcym.jpg'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

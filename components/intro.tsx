@@ -8,7 +8,7 @@ const Intro = () => {
 				<em>Windy City Devs</em>
 			</h1>
 			<h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-				A statically generated platform using{" "}
+				A statically generated platform powered by{" "}
 				<a
 					href="https://nextjs.org/"
 					className="underline hover:text-success duration-200 transition-colors"
