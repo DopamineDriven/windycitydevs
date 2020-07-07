@@ -1,6 +1,6 @@
 ---
 title: 'Why TypeScript puts the Super in Superset'
-excerpt: ''
+excerpt: 'TypeScript has become increasingly popular over recent years, and for good reason.'
 coverImage: 'https://res.cloudinary.com/asross311/image/upload/v1594137933/ASR_Assets/runtime_kcjcym.jpg'
 date: '2020-07-06T08:35:07.322Z'
 author:
@@ -10,10 +10,4 @@ ogImage:
   url: 'https://res.cloudinary.com/asross311/image/upload/v1594137933/ASR_Assets/runtime_kcjcym.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
-
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
-
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+TypeScript is a superset of JavaScript. It has become an increasingly popular tool for development environments, particularly in team settings. This is because TypeScript implements strict type checking and requires that type annotations be called in many scenarios (a feature not supported by Vanilla JavaScript). Unlike JavaScript, it won't launch and allow a subtle error to persist. On the contrary, TypeScript disallows the program from launching locally if an error is detected. Its intellisense is far superior to that of JavaScript's as well. This makes the process of debugging relatively painless and prevents bugs from snowballing into something truly catastrophic.
