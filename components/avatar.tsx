@@ -1,4 +1,4 @@
-import React, {FC} from "react";
+import React from "react";
 // import { Avatar } from "antd";
 
 type Props = {
@@ -6,7 +6,7 @@ type Props = {
   picture: string
 }
 
-const Avatar = ({ name, picture }: Props & FC) => {
+const Avatar = ({ name, picture }: Props) => {
   return (
     <div className="flex items-center">
       <img src={picture} className="w-12 h-12 rounded-full mr-4" alt={name} />
