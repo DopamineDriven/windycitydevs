@@ -1,13 +1,13 @@
 import React from "react";
 import Container from "./container";
 import cn from "classnames";
-import { EXAMPLE_PATH } from "../lib/constants";
-import {
-	GithubOutlined,
-	TwitterOutlined,
-	FacebookOutlined,
-	GoogleOutlined
-} from "@ant-design/icons";
+// import { EXAMPLE_PATH } from "../lib/constants";
+// import {
+// 	GithubOutlined,
+// 	TwitterOutlined,
+// 	FacebookOutlined,
+// 	GoogleOutlined
+// } from "@ant-design/icons";
 
 type Props = {
 	preview?: boolean;
